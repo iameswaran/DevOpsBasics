@@ -1,4 +1,4 @@
-<h1> Welcome Eswar for DevOps Self Learning Cource</h1>
-<h2> Herwith we are going to Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
-<h3> Continuous Integration test from Git hub to Azure DevOps build Pipeline </h3>
+<h1> Hello..! Welcome you all for Eswar's DevOps Learning Cource</h1>
+<h2> Here we are going to Learn Azure DevOps CI/CD pipelines / Automcation Builds & Deployments </h2>
+<h2> I wish you all the very best for your course and Azure DevOps experience.Thankyou..!</h2>
+
